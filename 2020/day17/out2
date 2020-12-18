@@ -1,0 +1,17 @@
+605
+0 <function eqri at 0x1021d2ea0>
+1 <function mulr at 0x1021d2840>
+2 <function gtri at 0x1021d2d08>
+3 <function gtrr at 0x1021d2d90>
+4 <function banr at 0x1021d2950>
+5 <function addi at 0x1021d27b8>
+6 <function seti at 0x1021d2bf8>
+7 <function gtir at 0x1021d2c80>
+8 <function muli at 0x1021d28c8>
+9 <function bori at 0x1021d2ae8>
+10 <function setr at 0x1021d2b70>
+11 <function addr at 0x1021d2730>
+12 <function bani at 0x1021d29d8>
+13 <function borr at 0x1021d2a60>
+14 <function eqir at 0x1021d2e18>
+15 <function eqrr at 0x1021d2f28>
